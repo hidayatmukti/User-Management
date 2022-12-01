@@ -1,5 +1,5 @@
 {
-    "name": "us/usermanagement",
+    "name": "usisahnfilsa/usermanagement",
     "description": "user management",
     "autoload": {
         "psr-4": {
