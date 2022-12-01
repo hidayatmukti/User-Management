@@ -1,5 +1,5 @@
 {
-    "name": "package/usermanagement",
+    "name": "us/usermanagement",
     "description": "user management",
     "autoload": {
         "psr-4": {

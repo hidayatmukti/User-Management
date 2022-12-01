@@ -6,5 +6,5 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Package\\Usermanagement\\' => array($baseDir . '/src'),
+    'US\\Package\\Usermanagement\\' => array($baseDir . '/src'),
 );
