@@ -3,7 +3,7 @@
     "description": "user management",
     "autoload": {
         "psr-4": {
-            "Package\\Usermanagement\\": "src/"
+            "pbpu\\Usermanagement\\": "src/"
         }
     },
     "require": {}
